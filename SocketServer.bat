@@ -1,0 +1,1 @@
+"E:\My Workspace\SPOS\LatestSPOS 23\prjSPOSStartUp\JioMoneySocket.exe" /Protocol IPv4 /Port 5150
